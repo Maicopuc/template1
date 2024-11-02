@@ -15,8 +15,5 @@ O código foi implementado em Python, utilizando listas e dicionários para mani
 
 ## Executando o Projeto
 
-Para rodar o projeto, execute o arquivo `main.py` no terminal:
-
-```bash
-python src/main.py
+Para rodar o projeto, execute o arquivo `main.py`.
 
